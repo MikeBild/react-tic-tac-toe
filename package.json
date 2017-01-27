@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "start": "export NODE_ENV=development && webpack-dev-server -d --hot --inline --no-info --port 3000",
-    "build": "export NODE_ENV=production && webpack -p ./src/app.js ./public/app.js"
+    "build": "export NODE_ENV=production && webpack -p ./src/app.js ./build/app.js"
   },
   "pouchdb": {
     "endpoint": {
@@ -19,7 +19,10 @@
     "plugins": []
   },
   "dependencies": {
+    "babel-core": "^6.22.1",
     "classnames": "2.2.5",
+    "eslint-loader": "^1.6.1",
+    "html-webpack-plugin": "^2.26.0",
     "react": "15.2.1",
     "react-dom": "15.2.1"
   },

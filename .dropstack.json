@@ -1,0 +1,10 @@
+{
+  "username": "go@dropstack.run",
+  "variables": [],
+  "alias": "tic-tac-toe.linklet.run",
+  "serviceName": "loptlxtb",
+  "serviceUrl": "https://loptlxtb.dropstack.run",
+  "serviceAlias": "tic-tac-toe.linklet.run",
+  "serviceType": "spa",
+  "serviceCName": "tic-tac-toe.linklet.run"
+}
