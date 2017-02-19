@@ -1,10 +1,7 @@
 {
   "variables": [],
-  "alias": "tic-tac-toe.dropstack.run",
-  "username": "go@dropstack.run",
-  "serviceName": "loptlxtb",
-  "serviceUrl": "https://loptlxtb.dropstack.run",
-  "serviceAlias": "tic-tac-toe.dropstack.run",
-  "serviceType": "spa",
-  "serviceCName": "https://tic-tac-toe.dropstack.run"
+  "alias": "tic-tac-toe.services.dropstack.run",
+  "name": "wyhgznup",
+  "serviceUrl": "wyhgznup.services.dropstack.run",
+  "type": "spa"
 }

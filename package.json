@@ -1,8 +1,9 @@
 {
   "private": true,
   "scripts": {
-    "start": "export NODE_ENV=development && webpack-dev-server -d --hot --inline --no-info --port 3000",
-    "build": "export NODE_ENV=production && webpack -p ./src/app.js ./build/app.js"
+    "dev": "export NODE_ENV=development && webpack-dev-server -d --hot --inline --no-info --port 3000",
+    "build": "export NODE_ENV=production && webpack -p ./src/app.js ./build/app.js",
+    "deploy": "npm run build && dropstack deploy"
   },
   "pouchdb": {
     "endpoint": {
