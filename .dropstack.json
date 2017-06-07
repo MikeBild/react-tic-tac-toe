@@ -1,7 +1,8 @@
 {
   "variables": [],
-  "alias": "tic-tac-toe.services.dropstack.run",
+  "instances": 1,
+  "alias": "tic-tac-toe.cloud.dropstack.run",
+  "type": "spa",
   "name": "wyhgznup",
-  "serviceUrl": "wyhgznup.services.dropstack.run",
-  "type": "spa"
+  "serviceUrl": "wyhgznup.cloud.dropstack.run"
 }
