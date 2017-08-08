@@ -4,7 +4,7 @@
 
 __[Live Demo](http://tic-tac-toe.cloud.dropstack.run)__
 
-[![Deploy to dropstack](https://deploy.cloud.dropstack.run/button.svg)](https://deploy.cloud.dropstack.run?repo=https://github.com/MikeBild/react-tic-tac-toe/tree/master)
+[![Deploy to dropstack](https://deploy.cloud.dropstack.run/button.svg)](https://deploy.cloud.dropstack.run?repo=https://github.com/MikeBild/react-tic-tac-toe)
 ## Setup
 
 ```bash
